@@ -39,14 +39,14 @@ empty. You can go back and fill it in later.
 
 ### APA 7
 
->Betancur Jaramillo, J. C. (2024). _catnet source code (Version 0.0)_ [source code]. [https://github.com/CamiBetancur/catnet/](https://github.com/CamiBetancur/catnet/). 
+>Betancur Jaramillo, J. C. (2024). _catnet source code (Version 0.1.0)_ [source code]. [https://github.com/CamiBetancur/catnet/](https://github.com/CamiBetancur/catnet/). 
 
 ### BibTex
 
 
 ```
 @misc{Betancur_2024,  
-      title={catnet},  
+      title={catnet v0.1.0},  
       url={https://github.com/CamiBetancur/catnet},  
       publisher={Stockholm Environment Institute},  
       author={Betancur Jaramillo, Juan Camilo},  
