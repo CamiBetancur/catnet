@@ -8,6 +8,8 @@ catnet is a Python package that allows for transforming tabular data into a netw
 ## How to install catnet
 To install this package run:
 
+`pip install catnet`
+or
 `python -m pip install git+https://github.com/CamiBetancur/catnet/)`
 
 ## Get started using catnet
